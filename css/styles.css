@@ -332,8 +332,8 @@ body {
 }
 
 #headerWrapper {
-  background-color: antiquewhite;
-  color: #2ecc71;
+  background-color: #f7fbff;
+  color: #03045E;
 }
 
 header {
@@ -377,7 +377,7 @@ nav a:hover {
 
 #footerWrapper {
   padding: 0.5rem 16px;
-  background-color: antiquewhite;
+  background-color: #f7fbff;
   color: #03045E;
 }
 #footerWrapper p {
